@@ -33,16 +33,16 @@ img {
 
 /* unvisited link */
 a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: black;
+    color: #ff8080;
 }
 
 /* mouse over link */
 a:hover {
-    color: white;
+    color: #ffcccc;
 }
