@@ -17,6 +17,7 @@
 
 body {
   background-image: url(../img/texture.jpg);
+  margin-top: 400px;
   background-repeat: no-repeat;
   background-position: center;
   background-color: #33657a;
