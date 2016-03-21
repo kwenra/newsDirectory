@@ -53,3 +53,7 @@ a:visited {
 a:hover {
     color: #ffcccc;
 }
+
+.footer {
+  font-size: 10px;
+}
